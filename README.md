@@ -2,7 +2,9 @@ Master’s student and aspiring data scientist, passionate about turning messy d
 
 # What I Do->
 Build smarter models (or at least attempt to).
+
 Clean data that should come with a "hazardous" label.
+
 Spot patterns hiding in plain sight, across industries.
 
 # Let’s Collaborate->
