@@ -11,7 +11,7 @@ Master’s student in Data Science, passionate about extracting insights from co
 Have an interesting data challenge? Reach out: **nmoha253@gmail.com**  
 
 ## Favorite Machine Learning Model?  
-The one that finally works after hours of debugging.  
+The one that finally works after hours of debugging...
 
 <!---
 Naji4/Naji4 is a special repository because its `README.md` (this file) appears on your GitHub profile.
